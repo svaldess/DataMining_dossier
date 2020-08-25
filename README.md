@@ -1,6 +1,6 @@
 # Data Mining Dossier
 
-This repository includes some of my data mining projects and excercises, including:
+This repository includes some of my data mining projects and exercises, including:
 
 ### Mining the video games global market data: web scraping and analysis
 This project explores the growth of the global gaming industry. Using a **web scraping** code, the data was extracted from a video game sales tracking website.
