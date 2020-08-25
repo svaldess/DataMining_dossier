@@ -1,5 +1,5 @@
 # A decade of cancer trends in the U.S. (2006-2016)
-## #Python #Matplotlib #Seaborn
+## #Healthcare #Matplotlib #Seaborn
 
 Cancer has a major impact in the United States population. Statistics about cancer provide a picture of the burden of cancer on society in a specific period. They help us identify trends and patterns across the population, as well as among specific groups defined by sex, age, race (or ethnic group), geographic location, or other categories. Understanding cancer statistics is crucial for developing effective public policies and, therefore, addressing the challenges that cancer poses to society.
 
