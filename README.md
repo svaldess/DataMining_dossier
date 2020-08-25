@@ -11,4 +11,4 @@ This project offers a broad picture of the major trends of cancer types in the U
 The data was retrieved from the United States Cancer Statistics. **Python** was used for cleaning, processing and analysing the data. **Matplolitb** and **Seaborn** were used for data visualization.
 
 ### Predicting heart failure
-First, by building a **KNN classifier** from scratch, this notebook aims at predicting heart failure while illustrating how KNN algorithm works. The KNN model performs **10-fold cross validation** to test the model. In a second part, Sklearn KNeighbors Classifier is used to illustrate how fast we can perform classification based on KNN with a few lines of code. 
+First, by building a **KNN classifier** from scratch, this notebook aims at predicting heart failure while illustrating how KNN algorithm works. The KNN model performs **10-fold cross validation** to test the model. In a second part, **Sklearn KNeighbors Classifier** is used to illustrate how fast we can perform classification based on KNN with a few lines of code. 
