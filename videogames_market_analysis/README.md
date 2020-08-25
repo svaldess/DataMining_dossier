@@ -1,5 +1,5 @@
 # Analysis of the global video games market
-## #DataMining #WebScraping #Python #Plotly
+## #Business #WebScraping #Plotly
 
 Since the release of the first video game in early 1970s, a ping pong game by Arcade, the video game industry has grown considerably. According to a [report](https://www.zionmarketresearch.com/report/cloud-gaming-market) from the Zion Market Research, the global gaming market was valued at 802 USD million in 2017 and is expected to grow for the following years.
 
